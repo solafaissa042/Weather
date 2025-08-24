@@ -1,0 +1,17 @@
+{
+    "syria": "سوريا",
+    "min":"الصغرى",
+    "max":"الكبرى",
+    "clear sky":"سماء صافية",
+    "few clouds":"غيوم قليلة",
+    "shower rain":"أمطار قليلة",
+    "rain":"أمطار",
+    "thunderstorm":"عاصفة رعدية",
+    "snow":"ثلوج",
+    "broken clouds":"غيوم متفرقة",
+    "feels Like":"الشعور",
+    "humidity":"الرطوبة",
+    "pressure":"الضغط",
+    "sea level":"مستوى سطح البحر",
+    "wind speed":"سرعة الرياح"
+  }
